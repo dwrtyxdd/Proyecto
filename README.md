@@ -22,4 +22,7 @@ pip install pandas
 pip install numpy
 pip install google-cloud-storage
 ```
+## Diagrama usado
+
+[![Captura.png](https://i.postimg.cc/J47snxvh/Captura.png)](https://postimg.cc/0r3kXY8g)
 
