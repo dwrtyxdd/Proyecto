@@ -1,7 +1,7 @@
 
 # Proyecto
 
-Proyecto usando arduino uno y esp32 cam que gracias a entrenamiento permite reconocer objetos seleccionados, como por ejemplo personas, libros, etc.
+Proyecto usando arduino uno y esp32 cam que gracias a entrenamiento e inteligencia artificial permite reconocer objetos seleccionados, como por ejemplo personas, libros, etc.
 ## Materiales
 
 - Arduino uno
