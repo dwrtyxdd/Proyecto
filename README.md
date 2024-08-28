@@ -26,3 +26,25 @@ pip install google-cloud-storage
 
 [![Captura.png](https://i.postimg.cc/J47snxvh/Captura.png)](https://postimg.cc/0r3kXY8g)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
