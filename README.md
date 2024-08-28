@@ -11,7 +11,7 @@ Proyecto usando arduino uno y esp32 cam que gracias a entrenamiento e inteligenc
 ## Lenguajes de programacion
 - Python
 - C++
-## Librerias usadas
+## Librerias usadas (python)
 - OpenCV
 - Pandas
 - Numpy
